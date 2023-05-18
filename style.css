@@ -1,0 +1,360 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.header{
+    width: 800px;
+    height: 150px;
+    background-color: #155263;
+    position: relative;
+    margin-left: 350px;
+}
+
+.header > h1{
+    color: #ffc93c;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.header > #phone{
+    color: #e0fcff;
+    padding-left: 50px;
+    position: absolute;
+    top: 100px;
+    font-size: 11px;
+    
+    
+}
+
+.header > #email{
+    color: #e0fcff;
+    padding-left: 170px;
+    position: absolute;
+    top: 100px;
+    font-size: 11px;
+    
+    
+}
+
+.header > #git{
+    color: #e0fcff;
+    padding-left: 370px;
+    position: absolute;
+    top: 100px;
+    font-size: 11px;
+    
+}
+
+.git:visited{
+    color: #e0fcff;
+}
+.git:hover{
+    color: #e0fcff;
+    font-size: 15px;
+}
+.git:active{
+    color: #e0fcff;
+}
+.git:link{
+    color: #e0fcff;
+}
+
+.education{
+    position: absolute;
+    margin-top: 10px;
+    display: inline-block;
+    width: 550px;
+    height: 450px;
+    background-color:#fff1a8;
+    color: #404969;
+}
+
+#edu{
+    font-size: 15px;
+   padding-left: 40px;
+}
+
+
+.year1{
+    vertical-align: top;
+    padding-left: 50px;
+}
+
+.education > h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+
+
+
+.PersonalData{
+    list-style-type: none;
+}
+
+.person, .education{
+    display: inline-block;
+    
+}
+
+.person{
+    display: inline-block;
+    width: 240px;
+    height: 450px;
+    background-color: #fff1a8;
+    position: relative;
+    margin-left: 560px;
+    margin-top: 10px;
+    
+}
+
+.first{
+    position: relative;
+    margin-left: 350px;
+    height: 420px;
+    width: 800px;
+    background-color: #ffc93c;
+    color: #404969;
+}
+
+.person > h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+
+.second{
+    position: relative;
+    margin-left: 350px;
+    background-color: #ffc93c;
+    padding-top: 10px;
+    color: #404969;
+    height: 650px;
+    width: 800px;
+}
+
+.workEx > h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: underline;
+    
+}
+
+.workEx{
+    background-color: #fff1a8;
+    position: absolute;
+    margin-top: 0px;
+    width: 550px;
+    height: 200px;
+    display: inline-block;
+}
+
+.work{
+    font-size: 15px;
+   padding-left: 40px;
+}
+
+.profile{
+    width: 240px;
+    background-color: #fff1a8;
+    position: relative;
+    display: inline-block;
+    margin-left: 560px;
+    height: 450px;
+}
+
+.profile > h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: underline; 
+}
+
+.profile > p{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.moreInfo > h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+
+.moreInfo{
+    position: absolute;
+    display: inline-block;
+    margin-top: 210px;
+    background-color: #fff1a8;
+    width: 550px;
+    height: 430px;
+}
+
+.moreInfo > table{
+    padding-left: 40px;
+}
+
+.language{
+    position: relative;
+    margin-left: 560px;
+    margin-top: -10px;
+    background-color: #fff1a8;
+    height: 180px;
+}
+
+.language > h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+
+
+
+.lang{
+    vertical-align: top;
+    padding-left: 50px;
+}
+
+.tablang{
+    height: 120px;
+}
+
+.lang1{
+    vertical-align: top;
+    padding-left: 20px;
+}
+
+.third{
+    position: relative;
+    margin-left: 350px;
+    background-color: #ffc93c;
+    margin-top: 0px;
+    color: #404969;
+    height: 520px;
+    width: 800px;
+}
+
+.third>.otherSkills > h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+
+.otherSkills{
+    background-color: #fff1a8;
+    height: 170px;
+    width: 550px;
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.skills{
+    position: absolute;
+    display: inline-block;
+    background-color: #fff1a8;
+    width: 240px;
+    margin-left: 10px;
+    text-align: justify;
+    height: 512px;
+}
+
+.third>.skills > h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+
+hr{
+    width: 200px;
+    border: 1px solid  #404969;;
+}
+
+.skills > p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.back{
+    width: 200px;
+    background-color: #453c38;
+    
+}
+
+
+
+.digitalSkills{
+    position: relative;
+    margin-top: -10px;
+    background-color: #fff1a8;
+    width: 550px;
+}
+
+.digitalSkills>table{
+    padding-left: 40px;
+}
+
+.digitalSkills > h2{
+    padding-left: 10px;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+.MO{
+    background-color:#f66e00;
+    height: 100%;
+    width: 90%;
+}
+
+.Ar{
+    background-color:#f66e00;
+    height: 100%;
+    width: 20%;
+}
+.Py{
+    background-color:#f66e00;
+    height: 100%;
+    width: 30%;
+}
+
+.cpp{
+    background-color:#f66e00;
+    height: 100%;
+    width: 70%;
+}
+.mat{
+    background-color:#f66e00;
+    height: 100%;
+    width: 40%;
+}
+.html{
+    background-color:#f66e00;
+    height: 100%;
+    width: 95%;
+}
+.css{
+    background-color:#f66e00;
+    height: 100%;
+    width: 80%;
+}
+.js{
+    background-color:#f66e00;
+    height: 100%;
+    width: 50%;
+}
+.sl{
+    background-color:#f66e00;
+    height: 100%;
+    width: 50%;
+}
+.cad{
+    background-color:#f66e00;
+    height: 100%;
+    width: 80%;
+}
+
+.ai{
+    background-color:#f66e00;
+    height: 100%;
+    width: 10%;
+}
